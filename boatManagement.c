@@ -10,7 +10,7 @@ typedef enum {
     SLIP,
     LAND,
     TRAILER,
-    STORAGE
+    STORAGE,
     NO_PLACE
 } BoatType;
 
